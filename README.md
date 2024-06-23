@@ -1,1 +1,0 @@
-The archive contains the code for the main modules, which readers can combine with the official version of YOLOv8.  If you encounter any issues during the debugging process, please feel free to reach out to us for assistance.
