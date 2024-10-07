@@ -1,4 +1,6 @@
-The archive contains the code for the main modules, which readers can combine with the official version of YOLOv8. 
+Since the proposed scheme involves confidential work, only part of the code is shown. If you have any questions, please contact us by email
+
+# The archive contains the code for the main modules, which readers can combine with the official version of YOLOv8. 
 
     python train.py
     python val.py
